@@ -1,1 +1,3 @@
-# gameDevA simple porject made by Samermc9 using c++
+# gameDev
+
+A simple porject made by Samermc9 using c++
